@@ -13,10 +13,10 @@ This repository contains the Coordinator implementation in IOS based on the Stra
 ## Coordinator based in Strategy Pattern
 
 
-![Strategy Pattern](https://github.com/yaircarreno/CoordinatorPatternDemo-IOS/blob/master/screenshots/coordinator-strategy.png)
+![Strategy Pattern](https://github.com/yaircarreno/CoordinatorPatternDemo-IOS/blob/master/Screenshots/coordinator-strategy.png)
 
 
 ## Coordinator Pattern Demo
 
 
-![Coordinator Pattern Demo](https://github.com/yaircarreno/CoordinatorPatternDemo-IOS/blob/master/screenshots/coordinator-pattern.png)
+![Coordinator Pattern Demo](https://github.com/yaircarreno/CoordinatorPatternDemo-IOS/blob/master/Screenshots/coordinator-pattern.png)
