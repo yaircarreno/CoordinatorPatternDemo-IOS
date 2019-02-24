@@ -19,4 +19,4 @@ This repository contains the Coordinator implementation in IOS based on the Stra
 ## Coordinator Pattern Demo
 
 
-![Coordinator Pattern Demo](https://github.com/yaircarreno/CoordinatorPatternDemo-IOS/blob/master/Screenshots/coordinator-pattern.png)
+![Coordinator Pattern Demo](https://github.com/yaircarreno/CoordinatorPatternDemo-IOS/blob/master/Screenshots/coordinator-pattern.gif)
