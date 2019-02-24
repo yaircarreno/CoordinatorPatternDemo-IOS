@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SubFirstViewController.swift
 //  CoordinatorPatternDemo
 //
 //  Created by Yair Carreno on 2/24/19.
@@ -8,13 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class SubFirstViewController: UIViewController, Storyboarded {
+    
+    weak var coordinator: Coordinator?
+    weak var context: Context?
+    var viewModel: SubFirstViewModel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
-
